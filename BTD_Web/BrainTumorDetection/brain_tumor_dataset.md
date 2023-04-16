@@ -1,0 +1,2 @@
+- Link for dataset with both tumored and non-tumored images - [Kaggle](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
+- Link to the same dataset with renamed image files and some extra images (**prefered**) - [`link`](https://drive.google.com/drive/folders/12VNzTX7a8oemOcGnXYBmtdFOkumO4AK-?usp=sharing)
